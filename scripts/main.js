@@ -3,7 +3,7 @@ const $summaryList = document.getElementById('summaryList');
 async function loadData() {
   try {
     // Make HTTP request to fetch the JSON data
-    const response = await fetch('../data/data.json');
+    const response = await fetch('./data/data.json');
 
     // Check if the response was successful (status 200–299)
     // If not, throw an error to be caught in the catch block
