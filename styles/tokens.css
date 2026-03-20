@@ -1,0 +1,29 @@
+@layer tokens {
+  :root {
+    --white: #fff;
+    --black: #000;
+    --navy-950: #303B59;
+    --navy-200: #CAC9FF;
+    --navy-50: #ECF2FF;
+    --blue-800: #1125D6;
+    --blue-50: #F3F4FD;
+    --yellow-400: #FFB21E;
+    --yellow-50: #FFFBF4;
+    --red-400: #FF5555;
+    --red-50: #FFF6F6;
+    --green-500: #00BB8F;
+    --green-50: #F2FCF9;
+    --ff-base: 'Hanken Grotesk', sans-serif;
+    --fs-100: .9rem;
+    --fs-200: clamp(1rem, 0.75rem + 1.06vw, 1.125rem);
+    --fs-300: 1.125rem;
+    --fs-400: clamp(1.125rem, .75rem + 1.6vw, 1.5rem);
+    --fs-500: clamp(1.5rem, 1rem + 2.1vw, 2rem);
+    --fs-600: clamp(3.5rem, 2.5rem + 4.26vw, 4.5rem);
+    --radius-100: 0.75rem;
+    --radius-200: 2rem;
+    --radius-300: 8rem;
+    --gradient-100: linear-gradient(to bottom, #7755FF, #2F2CE9);
+    --gradient-200: linear-gradient(to bottom, #4D21C9, #2421c900);
+  }
+}

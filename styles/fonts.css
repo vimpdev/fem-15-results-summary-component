@@ -1,0 +1,9 @@
+@layer fonts {
+  @font-face {
+    font-family: 'Hanken Grotesk';
+    src: url('./../assets/fonts/hanken-grotesk-vf.woff2') format('woff2');
+    font-display: swap;
+    font-style: normal;
+    font-weight: 100 900;
+  }
+}
