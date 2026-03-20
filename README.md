@@ -21,7 +21,7 @@ A responsive UI component that displays user performance results, built with mod
 ## 🔗 Links
 
 - 🌎 [Live site](https://vimpdev.github.io/fem-15-results-summary-component/)
-<!-- - 📌 [Frontend Mentor Solution]() -->
+- 📌 [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/results-summary-component-modern-css-and-javascript-oG6P95MzVv)
 
 ---
 
