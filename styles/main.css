@@ -25,7 +25,7 @@
 @layer components {
   .results-card {
     inline-size: min(100%, 28rem);
-    justify-self: center;
+    margin-inline: auto;
     display: grid;
     grid-template-columns: 1fr;
     background-color: var(--white);
@@ -67,7 +67,6 @@
 
   .score-range {
     font-size: var(--fs-200);
-    color: var(--navy-200);
   }
 
   .score-status {
